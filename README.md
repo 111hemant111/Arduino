@@ -1,9 +1,9 @@
-# Arduino projects - Not maintained!
+# Arduino projects (2012 - 2016) - Not maintained!
 
 ## Status
 Not maintained. Unorganized. Last update 2016.
 
-This is a collection of Arduino projects that don't really deserve their own repository. Many projects are in multiple directories and might take some time for the visitor to get around.
+This is a collection of Arduino projects that don't really deserve their own repository. These were developed while playing around various sensors, modules and actuators. Some projects are in multiple directories and might take some time for the visitor to get around.
 
 None of them are really maintained and almost none of them is commented. Feel free to poke around and create pull requests if you have some improvement.
 
